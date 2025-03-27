@@ -1,0 +1,74 @@
+﻿namespace NumberFrequency
+{
+    partial class Form1
+    {
+        /// <summary>
+        ///  Required designer variable.
+        /// </summary>
+        private System.ComponentModel.IContainer components = null;
+
+        /// <summary>
+        ///  Clean up any resources being used.
+        /// </summary>
+        /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        protected override void Dispose(bool disposing)
+        {
+            if (disposing && (components != null))
+            {
+                components.Dispose();
+            }
+            base.Dispose(disposing);
+        }
+
+        #region Windows Form Designer generated code
+
+        /// <summary>
+        ///  Required method for Designer support - do not modify
+        ///  the contents of this method with the code editor.
+        /// </summary>
+        private void InitializeComponent()
+        {
+            numbertextBox = new TextBox();
+            button1 = new Button();
+            SuspendLayout();
+            // 
+            // numbertextBox
+            // 
+            numbertextBox.Font = new Font("Microsoft JhengHei UI", 18F);
+            numbertextBox.Location = new Point(130, 132);
+            numbertextBox.Name = "numbertextBox";
+            numbertextBox.Size = new Size(254, 38);
+            numbertextBox.TabIndex = 0;
+            numbertextBox.TextAlign = HorizontalAlignment.Center;
+            numbertextBox.TextChanged += numbertextBox_TextChanged;
+            // 
+            // button1
+            // 
+            button1.Font = new Font("Microsoft JhengHei UI", 18F);
+            button1.Location = new Point(194, 215);
+            button1.Name = "button1";
+            button1.Size = new Size(140, 40);
+            button1.TabIndex = 1;
+            button1.Text = "出現次數";
+            button1.UseVisualStyleBackColor = true;
+            button1.Click += button1_Click;
+            // 
+            // Form1
+            // 
+            AutoScaleDimensions = new SizeF(7F, 15F);
+            AutoScaleMode = AutoScaleMode.Font;
+            ClientSize = new Size(495, 379);
+            Controls.Add(button1);
+            Controls.Add(numbertextBox);
+            Name = "Form1";
+            Text = "Form1";
+            ResumeLayout(false);
+            PerformLayout();
+        }
+
+        #endregion
+
+        private TextBox numbertextBox;
+        private Button button1;
+    }
+}
