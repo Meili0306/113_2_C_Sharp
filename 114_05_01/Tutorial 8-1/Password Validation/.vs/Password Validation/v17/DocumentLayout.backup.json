@@ -29,6 +29,10 @@
           "SelectedChildIndex": 3,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Form1.Designer.cs",
@@ -42,17 +46,13 @@
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Form1.cs [\u8A2D\u8A08]",
               "DocumentMoniker": "C:\\Users\\shu\\Desktop\\113_2_C_Sharp\\114_05_01\\Tutorial 8-1\\Password Validation\\Password Validation\\Form1.cs",
               "RelativeDocumentMoniker": "Password Validation\\Form1.cs",
-              "ToolTip": "C:\\Users\\shu\\Desktop\\113_2_C_Sharp\\114_05_01\\Tutorial 8-1\\Password Validation\\Password Validation\\Form1.cs [\u8A2D\u8A08]*",
-              "RelativeToolTip": "Password Validation\\Form1.cs [\u8A2D\u8A08]*",
+              "ToolTip": "C:\\Users\\shu\\Desktop\\113_2_C_Sharp\\114_05_01\\Tutorial 8-1\\Password Validation\\Password Validation\\Form1.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "Password Validation\\Form1.cs [\u8A2D\u8A08]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-23T08:02:10.055Z",
               "EditorCaption": " [\u8A2D\u8A08]"
@@ -63,8 +63,8 @@
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\shu\\Desktop\\113_2_C_Sharp\\114_05_01\\Tutorial 8-1\\Password Validation\\Password Validation\\Form1.cs",
               "RelativeDocumentMoniker": "Password Validation\\Form1.cs",
-              "ToolTip": "C:\\Users\\shu\\Desktop\\113_2_C_Sharp\\114_05_01\\Tutorial 8-1\\Password Validation\\Password Validation\\Form1.cs*",
-              "RelativeToolTip": "Password Validation\\Form1.cs*",
+              "ToolTip": "C:\\Users\\shu\\Desktop\\113_2_C_Sharp\\114_05_01\\Tutorial 8-1\\Password Validation\\Password Validation\\Form1.cs",
+              "RelativeToolTip": "Password Validation\\Form1.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAswB8AAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-23T08:02:11.614Z",
